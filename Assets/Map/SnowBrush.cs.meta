@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 2d9059436e042204bb627e9407a6d4a9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SnowHeightMap: {fileID: 8600000, guid: 405f5ef55ffe93c4eaf7b599834e0146, type: 2}
+  - HeightMapUpdate: {fileID: 2100000, guid: 784513a5538f79f4aa40921d381b6b83, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e4cbf8afa0f8214ab14dc399788babb, type: 3}
+  m_Name: Byte
+  m_EditorClassIdentifier: 
+  itemName: FangsByte
+  maximumAmount: 0
+  itemPrefab: {fileID: 2559644683142909963, guid: 35b078a807cf9834b935e1e14d4ba5e9, type: 3}
+  icon: {fileID: 0}
+  itemType: 3
+  itemDescription: 
+  isConsumeable: 0
+  changeHealth: -10
+  changeHunger: 0
+  changeThirst: 0
